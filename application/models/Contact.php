@@ -1,7 +1,7 @@
 <?php
 /**
  * Class Application_Model_Contact
- * modelo de datos de contacto
+ * 
  */
 class Application_Model_Contact
 {
