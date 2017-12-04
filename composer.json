@@ -1,0 +1,14 @@
+{
+    "name": "CarlosDuno/test-alegra",
+    "description": "",
+    "type": "project",
+    "require": {
+        "zendframework/zendframework1": "^1.12"
+    },
+    "authors": [
+        {
+            "name": "Carlos Duno",
+            "email": "duno411@gmail.com"
+        }
+    ]
+}
